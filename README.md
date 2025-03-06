@@ -1,3 +1,5 @@
+This is the LLM on C++ that uses universal precision data format.
+
 Copyright notice:
 
 Copyright (c) 2025 Ivan Kolosov
