@@ -2,7 +2,7 @@
 CC=g++
 CFLAGS=-c -Wall
 LDFLAGS=
-SOURCES=src/main.cpp
+SOURCES=src/main.cpp src/tensorlay.cpp
 OBJECTS=$(SOURCES:.cpp=.o)
 EXECUTABLE=bin/main.out
 
